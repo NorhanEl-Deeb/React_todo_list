@@ -1,33 +1,5 @@
-.App {
-  text-align: center;
-}
+/*########################### This code is written by Norhan El-Deeb @2019 #########################*/
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-  pointer-events: none;
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
+body{
+    background-image: linear-gradient(to right, #3b3ba3, #4d5cb5, #667cc5, #849cd1, #a8bbdc, #b0bcdc, #b7bddb, #bebeda, #b79ec6, #b77ba6, #b5587a, #a83745);
+} 
